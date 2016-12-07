@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1446556730 source:c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab1-2015\main_uppg1.cpp
+	<iostream>
+	<iomanip>
+	"statistics.h"
+
+1446553925 c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab1-2015\statistics.h
+	<iostream>
+
+1446556730 source:c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab1-2015\statistics.cpp
+	<iostream>
+	<cmath>
+	"statistics.h"
+
